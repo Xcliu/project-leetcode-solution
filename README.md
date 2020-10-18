@@ -36,4 +36,4 @@ Person in charge
 
 * [Swift](swift): Young Wu (homepage: [http://www.tsihyoung.com](http://www.tsihyoung.com))
 
-* [Java](java): Xingchen Liu (homepage: [https://github.com/Xcliu](https://github.com/Xcliu))
+* [Java](java): Xingchen Liu (homepage: [https://github.com/Xcliu](http://www.tsihyoung.com))
