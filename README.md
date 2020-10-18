@@ -35,3 +35,5 @@ Person in charge
 * [C++](cpp): Yangyao Chen (homepage: [http://www.chenyangyao.com](http://www.chenyangyao.com))
 
 * [Swift](swift): Young Wu (homepage: [http://www.tsihyoung.com](http://www.tsihyoung.com))
+
+* [Java](java): Xingchen Liu (homepage: [https://github.com/Xcliu](https://github.com/Xcliu))
